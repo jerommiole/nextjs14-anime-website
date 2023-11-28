@@ -42,4 +42,9 @@ Follow these steps to set up and run the project on your local machine:
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the app in action.
 
+## Resources
+[https://www.npmjs.com/package/react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
+[https://www.framer.com/motion/](https://www.framer.com/motion/)
+
+
 Happy coding! 🚀
